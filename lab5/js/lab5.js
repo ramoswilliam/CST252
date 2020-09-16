@@ -18,4 +18,4 @@ document.writeln("Make: " + carMake + "<br>");
 document.writeln("Model: " + carModel + "<br>");
 document.writeln("Color: " + carColor + "<br>");
 document.writeln("Year: " + carYear + "<br>");
-document.writeln("Age: " + age + " year(s)<br>");
+document.writeln("Age: " + Age + " year(s)<br>");
