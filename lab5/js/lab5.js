@@ -6,8 +6,8 @@
 
 // Define Variables
 carMake = "Toyota";
-carModel; = "Corolla";
-carColor; = "Gray";
+carModel = "Corolla";
+carColor = "Gray";
 carYear = "2010";
 year = "2020";
 
