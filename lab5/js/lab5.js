@@ -9,7 +9,7 @@ carMake = "Toyota";
 carModel; = "Corolla";
 carColor; = "Gray";
 carYear = "2010";
-year = "2020"
+year = "2020";
 
 //calculate
 Age = year - carYear;
