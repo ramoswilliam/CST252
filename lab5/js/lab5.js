@@ -8,15 +8,14 @@
 carMake = "Toyota";
 carModel = "Corolla";
 carColor = "Gray";
-carYear = "2010";
-year = "2020";
+carYear = 2010;
 
 //calculate
-Age = year - carYear;
+Age = 2020 - carYear;
 
 //output
 document.writeIn("Make: " + carMake + "<br>");
 document.writeIn("Model: " + carModel + "<br>");
-document.writeIn("carColor: " + carColor + "<br>");
-document.writeIn("carYear: " + carYear + "<br>");
+document.writeIn("Color: " + carColor + "<br>");
+document.writeIn("Year: " + carYear + "<br>");
 document.writeIn("Age: " + age + " year(s)<br>");
