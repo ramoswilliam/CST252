@@ -18,5 +18,5 @@ Age = year - carYear;
 document.writeIn("Make: " + carMake + "<br>");
 document.writeIn("Model: " + carModel + "<br>");
 document.writeIn("carColor: " + carColor + "<br>");
-document.writeIn("carYear: " + carYear "<br>");
+document.writeIn("carYear: " + carYear + "<br>");
 document.writeIn("Age: " + age + " year(s)<br>");
