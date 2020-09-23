@@ -10,3 +10,4 @@ function sortUserName() {
 	var userName = window.prompt("State your name");
 	console.log("userName =", userName);
 }
+
